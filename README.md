@@ -21,7 +21,11 @@ React Native to-do application.
 
 ## Screenshots
 
-![Screenshot_2025-08-01-18-19-53-28_59524c6f43fa030510c5a58332da2e6a](https://github.com/user-attachments/assets/169ec9c2-88c9-4143-8330-1e391a47753a)
 
-![Screenshot_2025-08-01-18-19-48-50_59524c6f43fa030510c5a58332da2e6a](https://github.com/user-attachments/assets/a6fd4983-9a44-417e-83ce-1bddc1c4780f)
+![night](https://github.com/user-attachments/assets/45f8964f-4098-4a51-a43e-25a49cb7d884)
+
+
+![light](https://github.com/user-attachments/assets/eb2b8636-f7be-4c95-a788-cc200f70e877)
+
+
 
